@@ -12,6 +12,6 @@ chmod +x launch_presskit.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/constellation25-mono/AiKre8tive-Stargate/launch_presskit.sh
+/data/data/com.termux/files/home/sovereign-gtp/src/AiKre8tive-Stargate/launch_presskit.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
